@@ -1,3 +1,5 @@
+<div style="background-color:black;">
+
 ### I'm Douglas Braga, I'm Brazilian and I'm Bachelor in Computer Science and specialist in Artificial Intelligence
 
 <div> 
@@ -32,7 +34,7 @@ Project: RUP, MS-Project, MS-Visio, BPM.<br />
 <br>
 <p><span style="background-color:rgb(255,255,255);color:rgba(0,0,0,0.9);">+20 years of progressive experience as an Application Developer with Microsoft .NET technologies with both client/server and web applications in Banking, Financial and Multinational Enterprise .&nbsp;</span><br><span style="background-color:rgb(255,255,255);color:rgba(0,0,0,0.9);">- Strong experience with Microsoft Studio development tools</span><br><span style="background-color:rgb(255,255,255);color:rgba(0,0,0,0.9);">- Solid understanding of SQL Server , including SQL, performance tuning database design. Developer to Querys for Procedures, Funcions, Tables, Views, Trigger</span><br><span style="background-color:rgb(255,255,255);color:rgba(0,0,0,0.9);">- Work with the client to translate requirements / user stories into working code</span><br><span style="background-color:rgb(255,255,255);color:rgba(0,0,0,0.9);">- Technical leadership and expertise in the design/development of new applications and enhancement of existing applications for big enterprises. Involved in all aspects of the software development, including: process design, software design, software implementation, documentation, quality assurance, deployment automation, and production support</span></p>
 
-
+</div>
 
 
 
